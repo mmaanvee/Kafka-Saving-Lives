@@ -15,7 +15,7 @@ from datetime import datetime
 import time
 
 # API Key
-google_maps_api_key = "AIzaSyDNmKMQUCvsiJCdT_344PJ4MHMM_CiGE8c"
+google_maps_api_key = "XYZ"
 
 # Initialize Google Maps client
 gmaps = googlemaps.Client(key=google_maps_api_key)
